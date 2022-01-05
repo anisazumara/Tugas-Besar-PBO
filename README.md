@@ -1,4 +1,6 @@
-## Tugas-Besar-PBO![👩🏽‍💻_Exercise](https://user-images.githubusercontent.com/76422839/148256684-fd437095-bb3a-4aa4-a49a-62c7e9614b25.png)
+![👩🏽‍💻_Coding](https://user-images.githubusercontent.com/76422839/148256922-97439797-72a5-40de-9c47-f42d9c049d42.png)
+
+## Tugas-Besar-PBO
 Berikut ini adalah folder yang berisikan aplikasi untuk memenuhi tugas besar mata kuliah pemrograman berorientasi objek :woman_student: 
 
 ## Introduction
