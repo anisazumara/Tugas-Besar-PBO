@@ -10,8 +10,9 @@ Pertama-tama saya akan memperkenalkan diri saya, nama saya Anisatuzzumara, NIM :
 ## Usage
 Didalam repository terdapat 2 jenis aplikasi OOP berbasis GUI (Graphic User Interface) dengan bahasa pemrograman java. 
 - Jenis aplikasi pertama yaitu aplikasi yang difungsikan untuk menghitung BMI guna memeriksa dan menunjukkan beberapa kategori berat badan yang kita miliki saat ini. 
-- Jenis aplikasi yang kedua yaitu aplikasi untuk menghitung berapa tahun, bulan, dan hari umur yang kita miliki sekarang, sejak perhitungan tanggal lahir kita.
+- Jenis aplikasi yang kedua yaitu aplikasi untuk menghitung berapa tahun, bulan, dan hari umur yang kita miliki sekarang, sejak perhitungan tanggal lahir kita. 
 
 ### Notes
- Jika ada pertanyaan, You can text me on email anisazumara@std.unissula.ac.id :thumbsup:
+ Untuk dapat menjalankan AplikasiUmur, dap
+ Jika ada pertanyaan lain, You can ask me via email anisazumara@std.unissula.ac.id :thumbsup:
 
