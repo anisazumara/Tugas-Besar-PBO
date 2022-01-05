@@ -1,4 +1,4 @@
-## Tugas-Besar-PBO
+## Tugas-Besar-PBO![👩🏽‍💻_Exercise](https://user-images.githubusercontent.com/76422839/148256684-fd437095-bb3a-4aa4-a49a-62c7e9614b25.png)
 Berikut ini adalah folder yang berisikan aplikasi untuk memenuhi tugas besar mata kuliah pemrograman berorientasi objek :woman_student: 
 
 ## Introduction
@@ -12,3 +12,4 @@ Didalam repository terdapat 2 jenis aplikasi OOP berbasis GUI (Graphic User Inte
 
 ### Notes
 Jika ada pertanyaan, You can text me on email anisazumara@std.unissula.ac.id 
+
