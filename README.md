@@ -10,10 +10,5 @@ Didalam repository terdapat 2 jenis aplikasi OOP berbasis GUI (Graphic User Inte
 - Jenis aplikasi pertama yaitu aplikasi yang difungsikan untuk menghitung BMI guna memeriksa dan menunjukkan beberapa kategori berat badan yang kita miliki saat ini. 
 - Jenis aplikasi yang kedua yaitu aplikasi untuk menghitung berapa tahun, bulan, dan hari umur yang kita miliki sekarang, sejak perhitungan tanggal lahir kita.
 
-Untuk mengetahui hasil output dari kedua aplikasi, Anda semuanya dapat membuka folder dan menjalankan masing-masing aplikasinya. 
-** Selamat mencoba :computer: **
-
-
-
-
-
+### Notes
+Jika ada pertanyaan, You can text me on email anisazumara@std.unissula.ac.id 
