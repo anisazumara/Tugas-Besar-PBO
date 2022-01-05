@@ -13,5 +13,6 @@ Didalam repository terdapat 2 jenis aplikasi OOP berbasis GUI (Graphic User Inte
 - Jenis aplikasi yang kedua yaitu aplikasi untuk menghitung berapa tahun, bulan, dan hari umur yang kita miliki sekarang, sejak perhitungan tanggal lahir kita.
 
 ### Notes
- Jika ada pertanyaan, You can text me on email anisazumara@std.unissula.ac.id :+1: :thumbsup:
+ Jika ada pertanyaan, You can text me on email anisazumara@std.unissula.ac.id :+1:
+ :thumbsup:
 
