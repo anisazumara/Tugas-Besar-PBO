@@ -1,7 +1,7 @@
 ![👩🏽‍💻_Coding](https://user-images.githubusercontent.com/76422839/148256922-97439797-72a5-40de-9c47-f42d9c049d42.png)
 
 ## Tugas-Besar-PBO
-Berikut ini adalah folder yang berisikan aplikasi untuk memenuhi tugas besar mata kuliah pemrograman berorientasi objek :woman_student: 
+Berikut ini adalah folder yang berisikan aplikasi untuk memenuhi tugas besar mata kuliah pemrograman berorientasi objek :woman_student::page_facing_up: 
 
 ## Introduction
 Assalamualaikum, hallo people...:wink:
@@ -13,5 +13,5 @@ Didalam repository terdapat 2 jenis aplikasi OOP berbasis GUI (Graphic User Inte
 - Jenis aplikasi yang kedua yaitu aplikasi untuk menghitung berapa tahun, bulan, dan hari umur yang kita miliki sekarang, sejak perhitungan tanggal lahir kita.
 
 ### Notes
- Jika ada pertanyaan, You can text me on email anisazumara@std.unissula.ac.id 
+ Jika ada pertanyaan, You can text me on email anisazumara@std.unissula.ac.id :+1: :thumbsup:
 
