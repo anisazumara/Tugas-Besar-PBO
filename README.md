@@ -7,10 +7,10 @@ Berikut ini adalah folder yang berisikan aplikasi untuk memenuhi tugas besar mat
 Assalamualaikum, hallo people...:wink:
 Pertama-tama saya akan memperkenalkan diri saya, nama saya Anisatuzzumara, NIM : 32602000015
 
-## Usage
+## Information
 Didalam repository terdapat 2 jenis aplikasi OOP berbasis GUI (Graphic User Interface) dengan bahasa pemrograman java. 
 - Jenis aplikasi pertama yaitu aplikasi yang difungsikan untuk menghitung BMI guna memeriksa dan menunjukkan beberapa kategori berat badan yang kita miliki saat ini. 
-- Jenis aplikasi yang kedua yaitu aplikasi untuk menghitung usia lengkap dengan tahun, bulan, dan hari umur, dihitung sejak tanggal lahir kita. 
+- Jenis aplikasi yang kedua yaitu aplikasi untuk menghitung luas bangun segitiga, lingkaran, dan persegi 
 
 ### Notes
  Jika ada pertanyaan lain, You can ask me via email anisazumara@std.unissula.ac.id :thumbsup:
