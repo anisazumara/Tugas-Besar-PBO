@@ -13,7 +13,8 @@ Didalam repository terdapat 2 jenis aplikasi OOP berbasis GUI (Graphic User Inte
   ![B](https://user-images.githubusercontent.com/76422839/148646971-62cc9685-9bd8-4caf-b10b-450f58352f7b.jpg)
 
 - Jenis aplikasi yang kedua yaitu aplikasi untuk menghitung luas bangun segitiga, lingkaran, dan persegi lengkap disertai dengan gambar bangun segitiga, lingkaran, dan     persegi.
-  ![Uploading A.jpg…]()
+  ![A](https://user-images.githubusercontent.com/76422839/148647022-90825a1c-eb69-4641-9f5b-80b7b1aeb7b4.jpg)
+
 
 ### Notes
  Jika ada pertanyaan lain, You can ask me via email anisazumara@std.unissula.ac.id :thumbsup:
