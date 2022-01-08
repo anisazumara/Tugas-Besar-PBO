@@ -9,7 +9,7 @@ Pertama-tama saya akan memperkenalkan diri saya, nama saya Anisatuzzumara, NIM :
 
 ## Information
 Didalam repository terdapat 2 jenis aplikasi OOP berbasis GUI (Graphic User Interface) dengan bahasa pemrograman java. 
-- Jenis aplikasi pertama yaitu aplikasi yang difungsikan untuk menghitung BMI guna memeriksa dan menunjukkan beberapa kategori berat badan yang kita miliki saat ini.
+- Jenis aplikasi pertama yaitu aplikasi yang difungsikan untuk menghitung BMI guna memeriksa dan menunjukkan beberapa kategori berat badan yang dimiliki saat ini.
   ![B](https://user-images.githubusercontent.com/76422839/148646971-62cc9685-9bd8-4caf-b10b-450f58352f7b.jpg)
 
 - Jenis aplikasi yang kedua yaitu aplikasi untuk menghitung luas bangun segitiga, lingkaran, dan persegi lengkap disertai dengan gambar bangun segitiga, lingkaran, dan     persegi.
