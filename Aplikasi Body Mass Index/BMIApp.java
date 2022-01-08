@@ -263,7 +263,7 @@ public class BMIApp extends javax.swing.JFrame {
             new Object [][] {
                 {"<17", "Kurus"},
                 {"17 - 22", "Ideal"},
-                {"23 - 27", "Gemuk"},
+                {"23 - 27", "Gmuk"},
                 {">27", "Obesitas"}
             },
             new String [] {
